@@ -1,0 +1,8 @@
+path: /Users/arhan.sheth/Documents/Codes/DX/Detection/objectDetection/data
+train: train/images
+val: train/images
+
+# Classes
+names:
+  0: alpaca
+  1: other
